@@ -40,7 +40,9 @@ namespace ConsoleApp52
             }
             catch(Exception)
             {
+                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("error 404");
+                Console.ResetColor();
                 string[] return0 = new string[0];
                 Main(return0);
             }

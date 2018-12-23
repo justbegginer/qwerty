@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unium\\source\\repos\\ConsoleApp52\\ConsoleApp52\\ConsoleApp52.csproj",
+      "projectUniqueName": "C:\\Users\\unium\\Documents\\GitHub\\qwerty\\ConsoleApp52\\ConsoleApp52\\ConsoleApp52.csproj",
       "projectName": "ConsoleApp52",
-      "projectPath": "C:\\Users\\unium\\source\\repos\\ConsoleApp52\\ConsoleApp52\\ConsoleApp52.csproj",
+      "projectPath": "C:\\Users\\unium\\Documents\\GitHub\\qwerty\\ConsoleApp52\\ConsoleApp52\\ConsoleApp52.csproj",
       "packagesPath": "C:\\Users\\unium\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unium\\source\\repos\\ConsoleApp52\\ConsoleApp52\\obj\\",
+      "outputPath": "C:\\Users\\unium\\Documents\\GitHub\\qwerty\\ConsoleApp52\\ConsoleApp52\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
